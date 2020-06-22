@@ -1,0 +1,13 @@
+
+https://www.postgresql.org/download/linux/ubuntu/ #follow the command
+
+
+next step is 
+
+change password 
+```sudo -u postgres psql postgres```
+
+after done this 
+run this command
+
+```\password```
